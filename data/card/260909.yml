@@ -7,7 +7,7 @@ about:
   latestVersion: "0.28.4"
   latestRelease: "0.28.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:52:49Z
+  collectedAt: 2026-09-09T20:22:06Z
 timeline:
   created: 2021-02-28
   lastCommit: 2026-09-06
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-14
   lastPrerelease: 
 popularity:
-  star: 4369
+  star: 4368
   watcher: 51
   fork: 155
   release: 70
@@ -85,7 +85,7 @@ total:
   commit: 372
 ---
 path: /home/runner/.x-repo/github.com/nalgeon/sqlean
-collectedAt: 2026-09-09T05:52:50Z
+collectedAt: 2026-09-09T20:22:08Z
 loc:
   C:
     code: 47252
@@ -125,17 +125,17 @@ total:
 ---
 
 ---
-  - regexp.so
-  - define.so
-  - vsv.so
-  - unicode.so
-  - fuzzy.so
-  - crypto.so
   - fileio.so
-  - sqlean.so
-  - ipaddr.so
-  - time.so
-  - uuid.so
+  - vsv.so
+  - define.so
   - text.so
-  - stats.so
+  - uuid.so
+  - time.so
+  - unicode.so
+  - ipaddr.so
+  - sqlean.so
   - math.so
+  - regexp.so
+  - fuzzy.so
+  - stats.so
+  - crypto.so
