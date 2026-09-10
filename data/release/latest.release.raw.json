@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 657318,
       "digest": "sha256:c0df9b6f511de0ea86201ea471880001ddc7c2b5fd3995777ebbea285ca43088",
-      "download_count": 343,
+      "download_count": 344,
       "created_at": "2026-08-14T19:11:13Z",
       "updated_at": "2026-08-14T19:11:13Z",
       "browser_download_url": "https://github.com/nalgeon/sqlean/releases/download/0.28.4/sqlean-linux-x64.zip"
