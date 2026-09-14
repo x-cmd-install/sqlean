@@ -37,7 +37,7 @@ Total: **56,593** lines of code across **161** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,368 · **Forks**: 155 · **Open issues**: 117 · **Contributors**: 27
+- **Stars**: 4,368 · **Forks**: 156 · **Open issues**: 117 · **Contributors**: 27
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **56,593** lines of code across **161** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 2 | 0 | 0 | 1 | 3 |
-| last60d | 2026-07-15 | 1 | 7 | 0 | 0 | 1 | 16 |
-| 90d | 2026-06-15 | 1 | 7 | 0 | 0 | 1 | 16 |
-| last180d | 2026-03-17 | 3 | 9 | 0 | 1 | 1 | 21 |
-| 360d | 2025-09-18 | 4 | 10 | 0 | 4 | 1 | 29 |
-| last720d | 2024-09-23 | 8 | 13 | 0 | 11 | 1 | 62 |
+| 30d | 2026-08-15 | 0 | 2 | 0 | 0 | 1 | 3 |
+| last60d | 2026-07-16 | 1 | 7 | 0 | 0 | 1 | 16 |
+| 90d | 2026-06-16 | 1 | 7 | 0 | 0 | 1 | 16 |
+| last180d | 2026-03-18 | 3 | 9 | 0 | 1 | 1 | 21 |
+| 360d | 2025-09-19 | 4 | 10 | 0 | 4 | 1 | 29 |
+| last720d | 2024-09-24 | 8 | 13 | 0 | 11 | 1 | 62 |
 
 ## Release assets
 
@@ -64,10 +64,6 @@ Total: **56,593** lines of code across **161** files in the top 5 languages.
 | [sqlean-macos-x64.zip](https://github.com/nalgeon/sqlean/releases/download/0.28.4/sqlean-macos-x64.zip) | 548.4 KiB | `native/darwin/x64` |
 | [sqlean-win-x64.zip](https://github.com/nalgeon/sqlean/releases/download/0.28.4/sqlean-win-x64.zip) | 779.4 KiB | `other` |
 
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/sqlean). **1** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for sqlean lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sqlean` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +73,4 @@ Install metadata for sqlean lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:57:21Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:09:29Z._
