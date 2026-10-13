@@ -37,22 +37,22 @@ Total: **56,593** lines of code across **161** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,375 · **Forks**: 156 · **Open issues**: 117 · **Contributors**: 26
+- **Stars**: 4,377 · **Forks**: 157 · **Open issues**: 117 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 31 · **Open PRs**: 0 · **Closed issues**: 116 · **Open issues**: 1 · **Commits**: 372
+- **Releases**: 70 · **Merged PRs**: 38 · **Open PRs**: 0 · **Closed issues**: 116 · **Open issues**: 1 · **Commits**: 372
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-13 | 1 | 0 | 0 | 0 | 1 | 1 |
-| 90d | 2026-07-14 | 1 | 0 | 0 | 0 | 1 | 9 |
-| last180d | 2026-04-15 | 2 | 1 | 0 | 1 | 1 | 12 |
-| 360d | 2025-10-17 | 4 | 3 | 0 | 3 | 1 | 21 |
-| last720d | 2024-10-22 | 8 | 6 | 0 | 11 | 1 | 61 |
+| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-14 | 1 | 2 | 0 | 0 | 1 | 3 |
+| 90d | 2026-07-15 | 1 | 7 | 0 | 0 | 1 | 16 |
+| last180d | 2026-04-16 | 2 | 8 | 0 | 1 | 1 | 19 |
+| 360d | 2025-10-18 | 4 | 10 | 0 | 3 | 1 | 28 |
+| last720d | 2024-10-23 | 8 | 13 | 0 | 11 | 1 | 61 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for sqlean lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:56:49Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:53:34Z._
