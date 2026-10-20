@@ -14,13 +14,13 @@ x install sqlean
 
 ## Code insight
 
-Total: **56,612** lines of code across **161** files in the top 5 languages.
+Total: **56,618** lines of code across **161** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 47,252 | 10,550 | 7,475 | 99 |
+| C | 47,255 | 10,550 | 7,475 | 99 |
 | CHeader | 7,575 | 4,583 | 1,482 | 46 |
-| Sql | 1,546 | 182 | 177 | 14 |
+| Sql | 1,549 | 182 | 177 | 14 |
 | Makefile | 219 | 12 | 29 | 1 |
 | Json | 20 | 0 | 0 | 1 |
 
@@ -32,27 +32,27 @@ Total: **56,612** lines of code across **161** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.28.5` (2026-10-14)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-19
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 4,380 · **Forks**: 159 · **Open issues**: 117 · **Contributors**: 28
+- **Stars**: 4,380 · **Forks**: 159 · **Open issues**: 117 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 39 · **Open PRs**: 1 · **Closed issues**: 117 · **Open issues**: 0 · **Commits**: 374
+- **Releases**: 71 · **Merged PRs**: 40 · **Open PRs**: 0 · **Closed issues**: 117 · **Open issues**: 0 · **Commits**: 375
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 1 | 1 | 0 | 0 | 2 |
-| last60d | 2026-08-20 | 1 | 3 | 1 | 1 | 0 | 4 |
-| 90d | 2026-07-21 | 2 | 8 | 1 | 1 | 0 | 18 |
-| last180d | 2026-04-22 | 3 | 9 | 1 | 2 | 0 | 21 |
-| 360d | 2025-10-24 | 5 | 11 | 1 | 4 | 0 | 30 |
-| last720d | 2024-10-29 | 9 | 14 | 1 | 11 | 0 | 63 |
+| 30d | 2026-09-20 | 1 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-21 | 1 | 3 | 0 | 1 | 0 | 5 |
+| 90d | 2026-07-22 | 2 | 9 | 0 | 1 | 0 | 19 |
+| last180d | 2026-04-23 | 3 | 10 | 0 | 2 | 0 | 22 |
+| 360d | 2025-10-25 | 5 | 12 | 0 | 4 | 0 | 31 |
+| last720d | 2024-10-30 | 9 | 15 | 0 | 11 | 0 | 64 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for sqlean lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:31:46Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:48:40Z._
