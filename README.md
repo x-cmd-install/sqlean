@@ -37,7 +37,7 @@ Total: **56,618** lines of code across **161** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,381 · **Forks**: 159 · **Open issues**: 117 · **Contributors**: 29
+- **Stars**: 4,381 · **Forks**: 160 · **Open issues**: 117 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **56,618** lines of code across **161** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 2 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-22 | 1 | 3 | 0 | 1 | 0 | 5 |
-| 90d | 2026-07-23 | 2 | 9 | 0 | 1 | 0 | 19 |
-| last180d | 2026-04-24 | 3 | 10 | 0 | 2 | 0 | 22 |
-| 360d | 2025-10-26 | 5 | 12 | 0 | 4 | 0 | 31 |
-| last720d | 2024-10-31 | 9 | 15 | 0 | 11 | 0 | 64 |
+| 30d | 2026-09-22 | 1 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-23 | 1 | 3 | 0 | 1 | 0 | 5 |
+| 90d | 2026-07-24 | 2 | 9 | 0 | 1 | 0 | 19 |
+| last180d | 2026-04-25 | 3 | 10 | 0 | 2 | 0 | 22 |
+| 360d | 2025-10-27 | 5 | 12 | 0 | 4 | 0 | 31 |
+| last720d | 2024-11-01 | 9 | 15 | 0 | 11 | 0 | 64 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for sqlean lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:42:17Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:42:24Z._
