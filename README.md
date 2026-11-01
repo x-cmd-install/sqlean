@@ -14,15 +14,15 @@ x install sqlean
 
 ## Code insight
 
-Total: **56,618** lines of code across **161** files in the top 5 languages.
+Total: **55,896** lines of code across **188** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 47,255 | 10,550 | 7,475 | 99 |
-| CHeader | 7,575 | 4,583 | 1,482 | 46 |
-| Sql | 1,549 | 182 | 177 | 14 |
-| Makefile | 219 | 12 | 29 | 1 |
-| Json | 20 | 0 | 0 | 1 |
+| C | 47,043 | 10,559 | 7,741 | 125 |
+| CHeader | 4,946 | 1,830 | 1,157 | 48 |
+| Sql | 3,638 | 779 | 292 | 13 |
+| Makefile | 193 | 46 | 48 | 1 |
+| Sh | 56 | 22 | 10 | 1 |
 
 ## Source
 
@@ -31,38 +31,38 @@ Total: **56,618** lines of code across **161** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.28.5` (2026-10-14)
-- **Last commit**: 2026-10-19
+- **Latest**: `0.29.0` (2026-10-31)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 4,382 · **Forks**: 160 · **Open issues**: 117 · **Contributors**: 29
+- **Stars**: 4,383 · **Forks**: 160 · **Open issues**: 117 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 40 · **Open PRs**: 0 · **Closed issues**: 117 · **Open issues**: 0 · **Commits**: 375
+- **Releases**: 72 · **Merged PRs**: 41 · **Open PRs**: 0 · **Closed issues**: 117 · **Open issues**: 0 · **Commits**: 426
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 2 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-01 | 1 | 2 | 0 | 1 | 0 | 5 |
-| 90d | 2026-08-02 | 2 | 9 | 0 | 1 | 0 | 19 |
-| last180d | 2026-05-04 | 3 | 10 | 0 | 2 | 0 | 22 |
-| 360d | 2025-11-05 | 5 | 12 | 0 | 4 | 0 | 31 |
-| last720d | 2024-11-10 | 9 | 15 | 0 | 11 | 0 | 64 |
+| 30d | 2026-10-02 | 2 | 3 | 0 | 0 | 0 | 54 |
+| last60d | 2026-09-02 | 2 | 3 | 0 | 1 | 0 | 54 |
+| 90d | 2026-08-03 | 3 | 10 | 0 | 1 | 0 | 65 |
+| last180d | 2026-05-05 | 4 | 11 | 0 | 2 | 0 | 73 |
+| 360d | 2025-11-06 | 6 | 13 | 0 | 4 | 0 | 82 |
+| last720d | 2024-11-11 | 10 | 16 | 0 | 11 | 0 | 115 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [sqlean-linux-arm64.zip](https://github.com/nalgeon/sqlean/releases/download/0.28.5/sqlean-linux-arm64.zip) | 654.1 KiB | `native/linux/arm64` |
-| [sqlean-linux-x64.zip](https://github.com/nalgeon/sqlean/releases/download/0.28.5/sqlean-linux-x64.zip) | 642.5 KiB | `other` |
-| [sqlean-macos-arm64.zip](https://github.com/nalgeon/sqlean/releases/download/0.28.5/sqlean-macos-arm64.zip) | 534.2 KiB | `native/darwin/arm64` |
-| [sqlean-macos-x64.zip](https://github.com/nalgeon/sqlean/releases/download/0.28.5/sqlean-macos-x64.zip) | 548.8 KiB | `native/darwin/x64` |
-| [sqlean-win-x64.zip](https://github.com/nalgeon/sqlean/releases/download/0.28.5/sqlean-win-x64.zip) | 779.4 KiB | `other` |
+| [sqlean-linux-arm64.zip](https://github.com/nalgeon/sqlean/releases/download/0.29.0/sqlean-linux-arm64.zip) | 660.7 KiB | `native/linux/arm64` |
+| [sqlean-linux-x64.zip](https://github.com/nalgeon/sqlean/releases/download/0.29.0/sqlean-linux-x64.zip) | 654.2 KiB | `other` |
+| [sqlean-macos-arm64.zip](https://github.com/nalgeon/sqlean/releases/download/0.29.0/sqlean-macos-arm64.zip) | 507.3 KiB | `native/darwin/arm64` |
+| [sqlean-macos-x64.zip](https://github.com/nalgeon/sqlean/releases/download/0.29.0/sqlean-macos-x64.zip) | 523.5 KiB | `native/darwin/x64` |
+| [sqlean-win-x64.zip](https://github.com/nalgeon/sqlean/releases/download/0.29.0/sqlean-win-x64.zip) | 729.2 KiB | `other` |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for sqlean lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:36:07Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:05:09Z._
