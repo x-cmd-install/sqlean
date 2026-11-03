@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 676539,
       "digest": "sha256:3adf2a2df48773c97157fca03a28d4a9d6b6f499824bc59c8bac9d67fac1e975",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-31T09:40:07Z",
       "updated_at": "2026-10-31T09:40:08Z",
       "browser_download_url": "https://github.com/nalgeon/sqlean/releases/download/0.29.0/sqlean-linux-arm64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 669904,
       "digest": "sha256:7f18e69b6c51d4f4f3c9e8c913bda5f5f55554f3e400f8566785df015a85aaf8",
-      "download_count": 33,
+      "download_count": 47,
       "created_at": "2026-10-31T09:40:07Z",
       "updated_at": "2026-10-31T09:40:07Z",
       "browser_download_url": "https://github.com/nalgeon/sqlean/releases/download/0.29.0/sqlean-linux-x64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 519486,
       "digest": "sha256:c4f2a6bc5cc57b9bf27e7b12a36f9abb92ceffb2260bb9dbc63a06d475c28d2d",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-31T09:39:02Z",
       "updated_at": "2026-10-31T09:39:03Z",
       "browser_download_url": "https://github.com/nalgeon/sqlean/releases/download/0.29.0/sqlean-macos-arm64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 536043,
       "digest": "sha256:1aff407aef505fd2e28afdaf6d64f252040a7a71b5e2681e83e7c905e36c1717",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-31T09:39:01Z",
       "updated_at": "2026-10-31T09:39:01Z",
       "browser_download_url": "https://github.com/nalgeon/sqlean/releases/download/0.29.0/sqlean-macos-x64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 746664,
       "digest": "sha256:2af2a15b5283978497291bb81d6e11a7e0ab52eeb224ce7b175f0947506a5faf",
-      "download_count": 23,
+      "download_count": 32,
       "created_at": "2026-10-31T09:39:41Z",
       "updated_at": "2026-10-31T09:39:41Z",
       "browser_download_url": "https://github.com/nalgeon/sqlean/releases/download/0.29.0/sqlean-win-x64.zip"
