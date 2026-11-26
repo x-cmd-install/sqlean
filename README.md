@@ -47,12 +47,12 @@ Total: **55,896** lines of code across **188** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 1 | 0 | 2 | 0 | 18 |
-| last60d | 2026-09-26 | 2 | 3 | 0 | 2 | 0 | 54 |
-| 90d | 2026-08-27 | 2 | 4 | 0 | 3 | 0 | 56 |
-| last180d | 2026-05-29 | 4 | 11 | 0 | 4 | 0 | 73 |
-| 360d | 2025-11-30 | 6 | 13 | 0 | 5 | 0 | 82 |
-| last720d | 2024-12-05 | 10 | 16 | 0 | 12 | 0 | 115 |
+| 30d | 2026-10-27 | 1 | 1 | 0 | 2 | 0 | 18 |
+| last60d | 2026-09-27 | 2 | 3 | 0 | 2 | 0 | 54 |
+| 90d | 2026-08-28 | 2 | 4 | 0 | 3 | 0 | 56 |
+| last180d | 2026-05-30 | 4 | 11 | 0 | 4 | 0 | 73 |
+| 360d | 2025-12-01 | 6 | 13 | 0 | 5 | 0 | 82 |
+| last720d | 2024-12-06 | 10 | 16 | 0 | 11 | 0 | 115 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for sqlean lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:13:27Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:08:35Z._
